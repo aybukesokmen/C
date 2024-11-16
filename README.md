@@ -1,1 +1,1 @@
-Bu bir test dosyasıdır.
+C kodlama exersizleri
